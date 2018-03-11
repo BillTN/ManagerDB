@@ -1,0 +1,146 @@
+[
+  {
+    "outputFileName": "assets/js/adminlte.min.js",
+    "inputFiles": [
+      "assets/js/adminlte.js"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/alt/AdminLTE-bootstrap-social.min.css",
+    "inputFiles": [
+      "assets/css/alt/AdminLTE-bootstrap-social.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/alt/AdminLTE-fullcalendar.min.css",
+    "inputFiles": [
+      "assets/css/alt/AdminLTE-fullcalendar.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/alt/AdminLTE-select2.min.css",
+    "inputFiles": [
+      "assets/css/alt/AdminLTE-select2.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/alt/AdminLTE-without-plugins.min.css",
+    "inputFiles": [
+      "assets/css/alt/AdminLTE-without-plugins.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/_all-skins.min.css",
+    "inputFiles": [
+      "assets/css/skins/_all-skins.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-black-light.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-black-light.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-black.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-black.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-blue-light.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-blue-light.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-blue.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-blue.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-green-light.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-green-light.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-green.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-green.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-purple-light.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-purple-light.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-purple.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-purple.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-red-light.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-red-light.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-red.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-red.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-yellow-light.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-yellow-light.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/skins/skin-yellow.min.css",
+    "inputFiles": [
+      "assets/css/skins/skin-yellow.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/AdminLTE.min.css",
+    "inputFiles": [
+      "assets/css/AdminLTE.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/Plugins/jquery-slimscroll/jquery.slimscroll.min.js",
+    "inputFiles": [
+      "assets/Plugins/jquery-slimscroll/jquery.slimscroll.js"
+    ]
+  },
+  {
+    "outputFileName": "assets/Plugins/fastclick/fastclick.min.js",
+    "inputFiles": [
+      "assets/Plugins/fastclick/fastclick.js"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/IonIcons/ionicons.min.css",
+    "inputFiles": [
+      "assets/css/IonIcons/ionicons.css"
+    ]
+  },
+  {
+    "outputFileName": "Assets/css/Morris.js/morris.min.js",
+    "inputFiles": [
+      "Assets/css/Morris.js/morris.js"
+    ]
+  },
+  {
+    "outputFileName": "Assets/css/Morris.js/morris.min.css",
+    "inputFiles": [
+      "Assets/css/Morris.js/morris.css"
+    ]
+  }
+]
