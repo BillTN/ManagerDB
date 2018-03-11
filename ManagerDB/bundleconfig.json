@@ -142,5 +142,59 @@
     "inputFiles": [
       "Assets/css/Morris.js/morris.css"
     ]
+  },
+  {
+    "outputFileName": "Assets/css/bootstrap-daterangepicker/daterangepicker.min.css",
+    "inputFiles": [
+      "Assets/css/bootstrap-daterangepicker/daterangepicker.css"
+    ]
+  },
+  {
+    "outputFileName": "Assets/css/bootstrap-datepicker/bootstrap-datepicker.min.css",
+    "inputFiles": [
+      "Assets/css/bootstrap-datepicker/bootstrap-datepicker.css"
+    ]
+  },
+  {
+    "outputFileName": "Assets/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css",
+    "inputFiles": [
+      "Assets/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.css"
+    ]
+  },
+  {
+    "outputFileName": "Assets/Plugins/raphael/raphael.min.js",
+    "inputFiles": [
+      "Assets/Plugins/raphael/raphael.js"
+    ]
+  },
+  {
+    "outputFileName": "Assets/Plugins/Morris.js/morris.min.js",
+    "inputFiles": [
+      "Assets/Plugins/Morris.js/morris.js"
+    ]
+  },
+  {
+    "outputFileName": "Assets/Plugins/jquery-sparkline/jquery.sparkline.min.js",
+    "inputFiles": [
+      "Assets/Plugins/jquery-sparkline/jquery.sparkline.js"
+    ]
+  },
+  {
+    "outputFileName": "Assets/Plugins/Moment/moment.min.js",
+    "inputFiles": [
+      "Assets/Plugins/Moment/moment.js"
+    ]
+  },
+  {
+    "outputFileName": "Assets/Plugins/bootstrap-datepicker/bootstrap-datepicker.min.js",
+    "inputFiles": [
+      "Assets/Plugins/bootstrap-datepicker/bootstrap-datepicker.js"
+    ]
+  },
+  {
+    "outputFileName": "Assets/Plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js",
+    "inputFiles": [
+      "Assets/Plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js"
+    ]
   }
 ]

@@ -202,15 +202,28 @@
     <Content Include="Assets\css\alt\AdminLTE-without-plugins.min.css">
       <DependentUpon>AdminLTE-without-plugins.css</DependentUpon>
     </Content>
+    <Content Include="Assets\css\bootstrap-datepicker\bootstrap-datepicker.css" />
+    <Content Include="Assets\css\bootstrap-datepicker\bootstrap-datepicker.min.css">
+      <DependentUpon>bootstrap-datepicker.css</DependentUpon>
+    </Content>
+    <Content Include="Assets\css\bootstrap-daterangepicker\daterangepicker.css" />
+    <Content Include="Assets\css\bootstrap-daterangepicker\daterangepicker.min.css">
+      <DependentUpon>daterangepicker.css</DependentUpon>
+    </Content>
+    <Content Include="Assets\css\bootstrap-wysihtml5\bootstrap3-wysihtml5.css" />
+    <Content Include="Assets\css\bootstrap-wysihtml5\bootstrap3-wysihtml5.min.css">
+      <DependentUpon>bootstrap3-wysihtml5.css</DependentUpon>
+    </Content>
     <Content Include="Assets\css\CustomStyles.css" />
+    <Content Include="Assets\css\fonts\ionicons.svg" />
     <Content Include="Assets\css\IonIcons\ionicons.css" />
     <Content Include="Assets\css\IonIcons\ionicons.min.css">
       <DependentUpon>ionicons.css</DependentUpon>
     </Content>
+    <Content Include="Assets\css\jvectormap\jquery-jvectormap.css" />
     <Content Include="Assets\css\Morris.js\morris.css" />
-    <Content Include="Assets\css\Morris.js\morris.js" />
-    <Content Include="Assets\css\Morris.js\morris.min.js">
-      <DependentUpon>morris.js</DependentUpon>
+    <Content Include="Assets\css\Morris.js\morris.min.css">
+      <DependentUpon>morris.css</DependentUpon>
     </Content>
     <Content Include="Assets\css\skins\skin-black-light.css" />
     <Content Include="Assets\css\skins\skin-black-light.min.css">
@@ -300,13 +313,41 @@
     <Content Include="Assets\js\demo.js" />
     <Content Include="Assets\js\pages\dashboard.js" />
     <Content Include="Assets\js\pages\dashboard2.js" />
+    <Content Include="Assets\Plugins\bootstrap-datepicker\bootstrap-datepicker.js" />
+    <Content Include="Assets\Plugins\bootstrap-datepicker\bootstrap-datepicker.min.js">
+      <DependentUpon>bootstrap-datepicker.js</DependentUpon>
+    </Content>
+    <Content Include="Assets\Plugins\bootstrap-daterangepicker\daterangepicker.js" />
+    <Content Include="Assets\Plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.min.js">
+      <DependentUpon>bootstrap3-wysihtml5.all.js</DependentUpon>
+    </Content>
     <Content Include="Assets\Plugins\fastclick\fastclick.js" />
     <Content Include="Assets\Plugins\fastclick\fastclick.min.js">
       <DependentUpon>fastclick.js</DependentUpon>
     </Content>
+    <Content Include="Assets\Plugins\jquery-knob\jquery.knob.min.js" />
     <Content Include="Assets\Plugins\jquery-slimscroll\jquery.slimscroll.js" />
     <Content Include="Assets\Plugins\jquery-slimscroll\jquery.slimscroll.min.js">
       <DependentUpon>jquery.slimscroll.js</DependentUpon>
+    </Content>
+    <Content Include="Assets\Plugins\jquery-sparkline\jquery.sparkline.js" />
+    <Content Include="Assets\Plugins\jquery-sparkline\jquery.sparkline.min.js">
+      <DependentUpon>jquery.sparkline.js</DependentUpon>
+    </Content>
+    <Content Include="Assets\Plugins\jvectormap\jquery-jvectormap-1.2.2.min.js" />
+    <Content Include="Assets\Plugins\jvectormap\jquery-jvectormap-world-mill-en.js" />
+    <Content Include="Assets\Plugins\Moment\moment.js" />
+    <Content Include="Assets\Plugins\Moment\moment.min.js">
+      <DependentUpon>moment.js</DependentUpon>
+    </Content>
+    <Content Include="Assets\Plugins\Morris.js\morris.js" />
+    <Content Include="Assets\Plugins\Morris.js\morris.min.js">
+      <DependentUpon>morris.js</DependentUpon>
+    </Content>
+    <Content Include="Assets\Plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.js" />
+    <Content Include="Assets\Plugins\raphael\raphael.js" />
+    <Content Include="Assets\Plugins\raphael\raphael.min.js">
+      <DependentUpon>raphael.js</DependentUpon>
     </Content>
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -352,6 +393,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Assets\css\fonts\ionicons.eot" />
+    <Content Include="Assets\css\fonts\ionicons.ttf" />
+    <Content Include="Assets\css\fonts\ionicons.woff" />
     <None Include="bundleconfig.json" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
